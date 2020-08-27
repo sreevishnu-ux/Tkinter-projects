@@ -1,2 +1,2 @@
 # Second-project
-This is a simple Rock Paper Scissors game i built using tkinter
+This is a simple Rock Paper Scissors game i built using tkinter library.
