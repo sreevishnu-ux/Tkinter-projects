@@ -1,1 +1,1 @@
-A simple and basic ROCK PAPER SCISSOR game built usinf tkinter
+A simple and basic ROCK PAPER SCISSOR game built using tkinter
